@@ -1,0 +1,8 @@
+{
+  "token": "bot token",
+  "clientId": "bot id ",
+  "embedRenk": "#36393F",
+  "embedFooter": "Ticket Bot | zypheris",
+  "embedThumbnail": "embed de olacak resim",
+  "ticketImage": "ticket de olacak emoji png şeklinde gir"
+}
